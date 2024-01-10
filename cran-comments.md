@@ -5,7 +5,7 @@ Clang Fedora/Debian servers.
 
 ## R CMD check results
 
-There were no ERRORs or WARNINGs.
+There were no ERRORs or WARNINGs. 
 
 There were 2 NOTEs:
 
